@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ec60e77010edaa4e853c67128e28b57, type: 3}
+  m_Name: Config_Ember
+  m_EditorClassIdentifier: 
+  Level: 1
+  Name: Ember
+  Icon: {fileID: 800272238, guid: 81183d4d90d9b1947bc32467ceade557, type: 3}
+  CurrentHealth: 8
+  MaxHealth: 8
+  Armor: 7
+  MaxArmor: 7
+  Energy: 200
+  MaxEnergy: 200
+  CriticalChance: 15
+  CriticalDamage: 50
+  HealthMaxUpgrade: 16
+  ArmorhMaxUpgrade: 14
+  EnergyMaxUpgrade: 280
+  CriticalMaxUpgrade: 25
+  Unlocked: 0
+  UnlockCost: 1000
+  UpgradeCost: 800
+  UpgradeMultiplier: 50
+  PlayerPrefab: {fileID: 7834658779728981838, guid: ff9c62e537275c94d88041a7910247c6, type: 3}

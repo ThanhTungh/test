@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ec60e77010edaa4e853c67128e28b57, type: 3}
+  m_Name: Config_Ganfald
+  m_EditorClassIdentifier: 
+  Level: 0
+  Name: Ganfald
+  Icon: {fileID: 986637157, guid: 81183d4d90d9b1947bc32467ceade557, type: 3}
+  CurrentHealth: 10
+  MaxHealth: 10
+  Armor: 9
+  MaxArmor: 9
+  Energy: 250
+  MaxEnergy: 250
+  CriticalChance: 30
+  CriticalDamage: 100
+  HealthMaxUpgrade: 20
+  ArmorhMaxUpgrade: 16
+  EnergyMaxUpgrade: 350
+  CriticalMaxUpgrade: 40
+  Unlocked: 0
+  UnlockCost: 2000
+  UpgradeCost: 1000
+  UpgradeMultiplier: 50
+  PlayerPrefab: {fileID: 7834658779728981838, guid: 6659b02de429fc84ab124d94578d7d69, type: 3}

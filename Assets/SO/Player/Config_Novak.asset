@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ec60e77010edaa4e853c67128e28b57, type: 3}
+  m_Name: Config_Novak
+  m_EditorClassIdentifier: 
+  Level: 0
+  Name: Novak
+  Icon: {fileID: -268901569, guid: 81183d4d90d9b1947bc32467ceade557, type: 3}
+  CurrentHealth: 8
+  MaxHealth: 8
+  Armor: 6
+  MaxArmor: 6
+  Energy: 180
+  MaxEnergy: 180
+  CriticalChance: 20
+  CriticalDamage: 80
+  HealthMaxUpgrade: 13
+  ArmorhMaxUpgrade: 11
+  EnergyMaxUpgrade: 250
+  CriticalMaxUpgrade: 30
+  Unlocked: 0
+  UnlockCost: 300
+  UpgradeCost: 150
+  UpgradeMultiplier: 50
+  PlayerPrefab: {fileID: 7834658779728981838, guid: f2c268bdc28a4c14d9d662a92b06049b, type: 3}
